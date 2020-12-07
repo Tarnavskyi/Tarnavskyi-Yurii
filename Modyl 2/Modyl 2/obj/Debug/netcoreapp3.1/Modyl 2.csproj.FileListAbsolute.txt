@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\Tarnavskyi\Tarnavskyi-Yurii\Modyl 2\Modyl 2\obj\Debug\netcoreapp3.1\Modyl 2.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Tarnavskyi\Tarnavskyi-Yurii\Modyl 2\Modyl 2\obj\Debug\netcoreapp3.1\Modyl 2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Tarnavskyi\Tarnavskyi-Yurii\Modyl 2\Modyl 2\obj\Debug\netcoreapp3.1\Modyl 2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Tarnavskyi\Tarnavskyi-Yurii\Modyl 2\Modyl 2\obj\Debug\netcoreapp3.1\Modyl 2.csproj.CoreCompileInputs.cache

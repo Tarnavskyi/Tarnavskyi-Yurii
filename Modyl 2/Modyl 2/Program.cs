@@ -5,7 +5,7 @@ namespace Modyl_2
     class Program
     {
         static void Main(string[] args)
-        {
+        { CHANGES MODYL 2
             var players = new List<Player> {
     new Player { Name = "Alex", Team = "A", Score = 10 },
     new Player { Name = "Anna", Team = "A", Score = 20 },
